@@ -187,17 +187,6 @@
 			]
 		},
 		{
-			"name": "Acme",
-			"details": "https://github.com/multiversecoder/Acme",
-			"labels": ["color scheme", "theme", "acme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Acme Color Scheme",
 			"details": "https://github.com/zaynali53/acme-color-scheme",
 			"labels": ["color scheme", "javascript"],
@@ -1661,6 +1650,7 @@
 		},
 		{
 			"details": "https://github.com/facelessuser/ApplySyntax",
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 4200",

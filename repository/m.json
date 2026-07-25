@@ -325,6 +325,28 @@
 			]
 		},
 		{
+			"name": "Makinda Color Scheme",
+			"details": "https://github.com/makinda-jackson/makinda-sublime",
+			"labels": ["color scheme", "theme", "light", "dark", "orange"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Makinda Icons",
+			"details": "https://github.com/makinda-jackson/makinda-icons-sublime",
+			"labels": ["theme", "icons", "file icons"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Mako",
 			"details": "https://github.com/marconi/mako-tmbundle",
 			"labels": ["language syntax"],
@@ -943,7 +965,7 @@
 		{
 			"name": "Material Monokai",
 			"details": "https://github.com/hlrossato/material-monokai",
-			"labels": ["color scheme", "material design", "monokai"],
+			"labels": ["color scheme", "material", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1204,17 +1226,6 @@
 			]
 		},
 		{
-			"name": "MCP Commander",
-			"details": "https://github.com/dpc00/sublime-mcp",
-			"labels": ["ai", "mcp"],
-			"releases": [
-				{
-					"sublime_text": ">=4000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "MCPHelper",
 			"description": "Connects to a local Model Context Protocol (MCP) server for AI-powered code generation, review, refactoring, and translation using OpenAI or Gemini.",
 			"author": "David Donohue",
@@ -1410,8 +1421,10 @@
 		{
 			"name": "Mercurial Color Scheme",
 			"details": "https://github.com/renzojohnson/mercurial-color-scheme",
-			"donate": "https://github.com/sponsors/renzojohnson",
-			"labels": ["color scheme"],
+			"homepage": "https://renzojohnson.com",
+			"issues": "https://renzojohnson.com/contact",
+			"donate": "https://www.paypal.com/paypalme/renzojohnson",
+			"labels": ["color scheme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",

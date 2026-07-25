@@ -941,16 +941,6 @@
 			]
 		},
 		{
-			"name": "JS2Coffee",
-			"details": "https://github.com/aziz/sublime-js2coffee",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/junosuarez/JsBDD",
 			"labels": ["language syntax"],
 			"releases": [
@@ -1200,6 +1190,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Json5Formatter",
+			"details": "https://github.com/RAMBOO1990/sublime-json5",
+			"labels": ["formatting", "formatter", "json", "json5"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
 					"tags": true
 				}
 			]

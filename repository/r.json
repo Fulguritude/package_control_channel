@@ -34,17 +34,6 @@
 			]
 		},
 		{
-			"name": "Ra Spring",
-			"details": "https://github.com/vbasky/RaSpring",
-			"labels": ["color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Racket",
 			"details": "https://github.com/follesoe/sublime-racket",
 			"labels": ["language syntax"],
@@ -798,6 +787,17 @@
 			]
 		},
 		{
+			"name": "RecentExplorer",
+			"details": "https://github.com/kushaagr/recent-explorer-sublime",
+			"labels": ["project", "open files", "file navigation", "productivity"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RecentTabSort",
 			"details": "https://github.com/Stuk/sublime-recent-tab-sort",
 			"releases": [
@@ -1093,7 +1093,7 @@
 		{
 			"name": "RememberSyntax",
 			"details": "https://github.com/Suor/RememberSyntax",
-			"labels": ["utilities"],
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2518,7 +2518,7 @@
 		{
 			"name": "Rust Enhanced",
 			"details": "https://github.com/rust-lang/rust-enhanced",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "rust"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2589,7 +2589,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "Rux",
 			"details": "https://github.com/rux-lang/SublimeText",
